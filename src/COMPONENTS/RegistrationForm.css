@@ -1,0 +1,51 @@
+.form{
+    background: #000428;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+    color: white;
+}
+
+.maindiv{
+     text-align: center; 
+    /* height: 400px;
+    width: 800px; */
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    
+}
+.maindiv input{
+    padding: 5px;
+    border-radius: 7px;
+}
+.maindiv label{
+    padding: 20px 0px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    background: #a8c0ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    
+}
+
+.gender{
+    text-align: center;
+    background: #000428;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   color: white;
+    
+}
+
+button{
+ width: 100%;
+ background-color: #04AA6D;
+ padding: 8px 0px;
+ color: white;
+}
